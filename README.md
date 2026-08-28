@@ -1,6 +1,6 @@
 # Weatherly 🌤️
 
-A simple and lightweight **weather application built with Python** using the **OpenWeather API**.
+A simple and lightweight **weather application built with Python** using **[Open Meteo](https://open-meteo.com/)**.
 
 Weatherly lets you quickly check the current weather conditions of any location through a clean and beginner-friendly interface.
 
@@ -17,13 +17,13 @@ Weatherly lets you quickly check the current weather conditions of any location 
 * 💨 View wind speed
 * 🌤️ Weather condition descriptions
 * 🖥️ Simple and clean interface
-* 🔗 Powered by OpenWeather API
+* 🔗 Powered by Open Meteo
 
 ## 🛠️ Built With
 
 * **Python**
 * **Tkinter**
-* **OpenWeather API**
+* **[Open Meteo](https://open-meteo.com/)**
 * **Requests**
 
 ## 🚀 How to Run
